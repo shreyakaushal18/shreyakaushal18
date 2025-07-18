@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://i.pinimg.com/736x/c4/4f/29/c44f295b487282f826077da1d3c3c744.jpg"  />
+  <img height="150" src="https://i.pinimg.com/736x/c4/4f/29/c44f295b487282f826077da1d3c3c744.jpg"  />
 </div>
 
 ###
@@ -56,9 +56,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" a href = "https://www.linkedin.com/in/shreya-kaushal-1009ab29a"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+  <a href = "https://www.linkedin.com/in/shreya-kaushal-1009ab29a"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a>
+  <a href = "shreyakaushalguna@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div> </a>
+  
 
 ###
