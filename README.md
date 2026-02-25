@@ -1,63 +1,52 @@
-<h1 align="center">Hi , 👋I'm Shreya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shreya+Kaushal;I'm+a+DSA+Enthusiast+💡;Java+Developer;Exploring+AI%2FML;Building+Projects+🚀" />
+</p>
 
-###
+## ✨ About Me
+ 
+🎓 Mathematics and Computing undergraduate at **MITS Gwalior**.  
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/c4/4f/29/c44f295b487282f826077da1d3c3c744.jpg"  />
-</div>
+💻 Strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms. 
 
-###
+🤖 Currently developing Machine Learning projects.
 
-<h3 align="left">👩‍💻  About Me</h3>
+🌱 Continuously improving problem-solving skills through DSA practice.
 
-###
+🎯 Aspiring Software Developer with a growing interest in AI-driven applications.
 
-<p align="left">I'm Shreya Kaushal <br><br>- 🔭 I’m a 3rd year undergrad at MITS Gwalior.<br>- 📚 I'm currently learning Web development and Data Science<br>- ⚡ In my free time I do Graphic Designing</p>
 
-###
+## 🛠️ Languages & Tools
 
-<h3 align="left">🛠 Language and tools</h3>
+### 👩‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### 🤖 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-###
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakaushal18&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyakaushal18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## Reach Me At
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyakaushal18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyakaushal18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">Reach me at</p>
-
-###
-
-<div align="left">
-  <a href = "https://www.linkedin.com/in/shreya-kaushal-1009ab29a"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a>
-</div> </a>
-  
-
-###
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyakaushalguna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-kaushal-1009ab29a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyakaushal18)
