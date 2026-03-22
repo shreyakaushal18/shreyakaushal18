@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shreya+Kaushal;I'm+a+DSA+Enthusiast+💡;Java+Developer;Exploring+AI%2FML;Building+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shreya;I'm+a+DSA+Enthusiast+💡;Java+Developer;Exploring+AI%2FML;Building+Projects+🚀" />
 </p>
 
 ## ✨ About Me
