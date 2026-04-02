@@ -6,7 +6,7 @@
  
 🎓 Mathematics and Computing undergraduate at **MITS Gwalior**.  
 
-💻 Strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms. 
+💻 Strengthening my skills in Java, Object-Oriented Programming, and Data Structures & Algorithms. 
 
 🤖 Currently developing Machine Learning projects.
 
